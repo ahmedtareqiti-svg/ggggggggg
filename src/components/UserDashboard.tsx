@@ -135,7 +135,7 @@ export const UserDashboard = ({ userType, username }: UserDashboardProps) => {
             <CardHeader>
               <CardTitle className="flex items-center gap-2">
                 <Wifi className="h-5 w-5 text-blue-600" />
-                خط رقم {customer.id}
+                بيانات الخط
               </CardTitle>
             </CardHeader>
             <CardContent>
